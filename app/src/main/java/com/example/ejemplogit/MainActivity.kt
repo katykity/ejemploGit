@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        Toast.makeText(this,"hola",Toast.LENGTH_SHORT);//hola
+        Toast.makeText(this,"hola Soy katherine",Toast.LENGTH_SHORT);//hola
     }
 }
